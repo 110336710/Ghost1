@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ghost</string>
+    <string name="Title">GHOST</string>
+    <string name="StartGame">Start Game</string>
+    <string name="LoadGame">Load Game</string>
+    <string name="Highscores">High Scores</string>
+    <string name="Settings">Settings</string>
+    <string name="Back">Back</string>
+
+    <string name="action_settings">action Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="title_activity_highscores">Highscores</string>
+
+    <string name="title_activity_welcome">welcome</string>
+    <string name="language_question">Wich language\nwould you like?</string>
+    <string name="player2">Player 2</string>
+    <string name="player1">Player 1</string>
+    <string name="ENG">English</string>
+    <string name="NL">Nederlands</string>
+    <string name="title_activity_setplayers">setplayers</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
